@@ -25,7 +25,7 @@ It demonstrates cache hit/miss detection, tag comparison, and valid-bit logic.
 
 ##  Simulation Result
 
-The waveform below demonstrates:
+The waveform demonstrates:
 - First access → Cache MISS  
 - Second access → Cache HIT  
 - New address → Cache MISS  
